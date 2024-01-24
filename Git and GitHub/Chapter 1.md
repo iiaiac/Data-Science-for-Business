@@ -1,6 +1,6 @@
-CHAPTER 1. Introduction to GitHub and Git
+# **Chapter 1: INTRODUCTION TO GIT AND GITHUB**
 
-A. What is GitHub and its Significance
+# **1(a). What is GitHub and its Significance**
 
 Have you ever wondered how the apps on your phone or the websites you visit are built?
 They start as ideas that turn into computer code. GitHub is like a special online home 
@@ -18,7 +18,7 @@ a place where your code is stored, changes are tracked, and collaborators can di
 contribute to the project. It's essential in the tech world because it simplifies working on 
 projects with others, making it easier to create and maintain high-quality software.
 
-B. Introduction to Git and Version Control
+# **1(b). Introduction to Git and Version Control**
 
 Now, let's consider Git, the backbone of GitHub. Imagine you're writing a story, a diary, 
 or even a recipe, and you find yourself making changes along the way. Git is like a detailed 
@@ -31,7 +31,7 @@ allows multiple people to work on the same project simultaneously, tracking ever
 and keeping a complete history. This makes Git indispensable in modern software development, 
 providing a safe and efficient way to collaborate and maintain a project's evolving history.
 
-C. Difference Between Git and GitHub
+# **1(c). Difference Between Git and GitHub**
 
 To understand the relationship between Git and GitHub, think of Git as the system you use on your 
 computer to track changes in your project, like a personal diary of your work. GitHub, on the other hand, 
