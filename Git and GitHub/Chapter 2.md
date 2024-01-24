@@ -1,6 +1,6 @@
 # **CHAPTER 2: SETTING UP AND NAVIGATING GITHUB**
 
-# **2(a) Creating a GitHub Account
+# **2(a) Creating a GitHub Account**
 
 **Introduction**
 

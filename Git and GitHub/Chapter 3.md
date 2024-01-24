@@ -109,7 +109,7 @@ c. Example: git push origin main will push your commits to the main branch of th
 These basic Git operations form the foundation of project management and collaboration on GitHub. Familiarity with these commands will enable you to contribute to projects and manage your own repositories effectively.
 
 
-#**3(c) Setting Up a Local Git Repository**
+# **3(c) Setting Up a Local Git Repository**
 
 **Introduction**
 
